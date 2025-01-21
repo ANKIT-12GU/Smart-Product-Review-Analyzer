@@ -11,7 +11,7 @@ This project involves analyzing and deriving insights from a dataset combining t
 3. [Steps and Methodology](#steps-and-methodology)
 4. [Results and Visualizations](#results-and-visualizations)
 5. [Outputs](#outputs)
-6. [DocReport](#Doc-Report)
+6. [DocReport](#docReport)
 7. [Acknowledgments](#acknowledgments)
 
 ---
