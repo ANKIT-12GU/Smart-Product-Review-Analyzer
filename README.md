@@ -84,7 +84,7 @@ The following outputs are saved in the `output/` directory:
 
 ---
 ## DocReport
-- Available in Mian Directory.
+- Available in Main Directory.
 ---
 
 ## Acknowledgments
