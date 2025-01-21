@@ -11,7 +11,7 @@ This project involves analyzing and deriving insights from a dataset combining t
 3. [Steps and Methodology](#steps-and-methodology)
 4. [Results and Visualizations](#results-and-visualizations)
 5. [Outputs](#outputs)
-6. [BanaoAiTask2Report.pdf](#PDF-Report)
+6. [DocReport](#Doc-Report)
 7. [Acknowledgments](#acknowledgments)
 
 ---
@@ -83,8 +83,8 @@ The following outputs are saved in the `output/` directory:
 9. `model_performance.txt`: Metrics (MSE, R-squared) for the predictive model.
 
 ---
-## BanaoAiTask2Report
-BanaoAiTask2Report.pdf
+## DocReport
+Available in Mian Directory.
 ---
 
 ## Acknowledgments
