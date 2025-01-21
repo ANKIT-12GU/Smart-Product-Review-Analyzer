@@ -1,4 +1,4 @@
-### Smart-Product-Review-Analyzer
+# Smart-Product-Review-Analyzer
 # Multi-Modal Data Analysis and Predictive Insights
 
 This project involves analyzing and deriving insights from a dataset combining text data (product reviews) with numerical metadata. The workflow includes feature extraction, sentiment analysis, predictive modeling, and data visualization to provide actionable insights about product ratings.
