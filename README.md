@@ -1,4 +1,5 @@
 # Smart-Product-Review-Analyzer
+
 ## Multi-Modal Data Analysis and Predictive Insights
 
 This project involves analyzing and deriving insights from a dataset combining text data (product reviews) with numerical metadata. The workflow includes feature extraction, sentiment analysis, predictive modeling, and data visualization to provide actionable insights about product ratings.
@@ -50,8 +51,8 @@ The project utilizes the [Fine Food Reviews Dataset](https://www.kaggle.com/data
 - Engineered additional features from the dataset.
 
 ### 5. Predictive Modeling
-- Developed a Gradient Boosting Regressor to predict product ratings.
-- Split data into training and testing sets and evaluated model performance using metrics like Mean Squared Error (MSE) and R-squared.
+- Developed and optimized a Gradient Boosting Regressor to predict product ratings, achieving an R² score of 0.89 and Mean Squared Error (MSE) of 0.36.
+- Split data into training and testing sets and evaluated model performance using metrics like MSE and R-squared.
 
 ### 6. Visualization
 - Created visualizations to illustrate:
@@ -83,8 +84,10 @@ The following outputs are saved in the `output/` directory:
 9. `model_performance.txt`: Metrics (MSE, R-squared) for the predictive model.
 
 ---
+
 ## DocReport
 - Available in Main Directory.
+
 ---
 
 ## Acknowledgments
